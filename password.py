@@ -27,6 +27,5 @@ shuffled_pass = ""
 for char in password_list:
   shuffled_pass += char
 
-print(shuffled_pass)
-
+print(f"Your password is: {shuffled_pass}")
 
