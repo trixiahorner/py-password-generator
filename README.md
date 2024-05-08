@@ -3,7 +3,7 @@
 
 # Introduction
 
-The program will ask:
+This password.py will ask:
 
 - How many letters would you like in your password?
 
